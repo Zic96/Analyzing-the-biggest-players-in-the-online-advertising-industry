@@ -34,3 +34,7 @@ And finally, I will perform some Monte Carlo simulations to predict the future p
 * Analyzing expected returns & risk
 * Value at Risk (Ηistorical Method)
 * Monte Carlo Simulation
+
+## Contact
+https://www.linkedin.com/in/anastasis-spiropoulos/
+
